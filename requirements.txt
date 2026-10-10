@@ -1,0 +1,6 @@
+kivy>=2.3.0
+# Opcional para exportar PDF:
+# reportlab
+# Opcional para scanner por câmera em desktop (pode exigir dependências nativas):
+# opencv-python
+# pyzbar
