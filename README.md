@@ -1,4 +1,4 @@
-# Beep Estoque Pro 2.0 🇧🇷
+# Dbox Estoque Pro 2.0 🇧🇷
 
 Aplicativo de controle de estoque em Python + Kivy, com interface em português do Brasil e banco de dados SQLite local.
 
